@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="info">OURINFO</string>
+    <string name="text" translatable="false">B. Coffee jest mobilną kawiarnią rowerową serwującą najwyższej klasy kawę, herbatę oraz gorącą czekoladę z profesjonalnego ekspresu ciśnieniowego.</string>
+    <string name="number">604 372 787</string>
+</resources>
